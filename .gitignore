@@ -1,1 +1,8 @@
 /.vscode
+
+//copy path from github
+//git clone {{URL_REPO}}
+//git status
+//git add . (ALL FILES)
+//git commit -m "your changes info"
+//git push
